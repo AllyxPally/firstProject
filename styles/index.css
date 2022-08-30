@@ -1,5 +1,25 @@
 h1 {
     color:blueviolet;
+    font-size: 30px;
+    font-weight: 400;
+    font-style:normal;
+    text-align: center;
+    background-color: palevioletred;
+    }
     
-
-}
+h2 {
+    color:rgb(225, 16, 225);
+    font-size: 20px;
+    font-weight: 400;
+    font-style:italic;
+    text-align: left;
+   
+    }
+    
+ p {
+    color:rgb(18, 154, 149);
+    font-size: 16px;
+    font-weight: 500px;
+    font-style:normal;
+    text-align:initial;
+    }
